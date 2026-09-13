@@ -1,0 +1,10 @@
+image_name	prediction	confidence
+12.jpg	दर्पण	1.0000
+2.jpg	खोजना	0.8346
+4.jpg	प्रकाश	1.0000
+882_1.jpg	दुख	0.9999
+882_3.jpg	आनंद	1.0000
+882_4.jpg	उत्तम	1.0000
+epoch_train_style_1_49_3.png	विज्ञान	1.0000
+epoch_train_style_1_5_3.png	किरण	1.0000
+epoch_train_style_1_8_2.png	सत्य	1.0000
